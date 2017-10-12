@@ -1,5 +1,5 @@
 {
-    "name": "eelkevdbos/firebase-php",
+    "name": "oyrafael/firebase-php",
     "description": "Firebase php wrapper for REST API",
     "license": "MIT",
     "keywords": ["firebase", "REST", "wrapper"],
